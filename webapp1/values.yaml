@@ -1,0 +1,7 @@
+appName: myhelmapp
+
+namespace: default
+
+image:
+  name: devopsjourney1/mywebapp:latest
+  tag: latest
